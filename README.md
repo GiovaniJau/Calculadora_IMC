@@ -7,3 +7,4 @@ O IMC (Índice de Massa Corporal) é o resultado obtido por meio de uma fórmula
 
 Essa fórmula foi desenvolvida ainda no século XVIII pelo belga Adolphe Quételet, cientista de matemática e astronomia que tinha enorme paixão por estatística. Essa fórmula foi reavaliada na década de 1972 pelo americano Ancel Keys, e somente reconhecida no ano de 1980 como um padrão internacional de referência para medidas de obesidade pela Organização Mundial de Saúde.
 
+![N|Solid](https://github.com/GiovaniJau/Calculadora_IMC/blob/master/screenshots/imc_1.PNG)      ![N|Solid](https://github.com/GiovaniJau/Calculadora_IMC/blob/master/screenshots/imc_2.PNG)
